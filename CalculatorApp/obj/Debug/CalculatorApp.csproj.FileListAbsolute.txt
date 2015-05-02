@@ -1,0 +1,9 @@
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\Dot_Net_Work\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
